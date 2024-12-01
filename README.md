@@ -1,1 +1,1 @@
-# django
+# Django Application for Sending SMS
